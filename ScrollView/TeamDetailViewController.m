@@ -302,9 +302,8 @@
         [lblName setTextColor:[UIColor yellowColor]];
         [lblName setText:[NSString stringWithFormat:@"%@",[[ary objectAtIndex:i] valueForKey:@"opponent"]]];
         [container addSubview:lblName];
-        //Do some thing
-        // Work on test branch
-        /// Commit on new branch1
+        // Do something on branch2
+        
         [viewMain addSubview:container];
 
         y=y+110;
