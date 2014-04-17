@@ -304,7 +304,7 @@
         [container addSubview:lblName];
         //Do some thing
         // Work on test branch
-        /// Commit on new branch1
+        /// Commit on new Repository3
         [viewMain addSubview:container];
 
         y=y+110;
